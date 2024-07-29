@@ -1,6 +1,6 @@
 <div align="center">
   
-## About
+## Hi 👋, I'm Juanse Maulini
 👋 Hi! I'm a passionate web developer specialized in JavaScript.
 
 🚀 I work with modern tools like React and Node.js, but my true passion and specialty lies in frontend development. I love creating intuitive and dynamic user interfaces that enhance the user experience.
