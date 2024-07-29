@@ -1,11 +1,11 @@
 <div align="center">
   
 ## About
-👋 ¡Hola! Soy un apasionado programador web especializado en JavaScript.
+👋 Hi! I'm a passionate web developer specialized in JavaScript.
 
-🚀 Trabajo con herramientas modernas como React y Node.js, pero mi verdadera pasión y especialidad se encuentra en el desarrollo frontend. Me encanta crear interfaces de usuario intuitivas y dinámicas que mejoren la experiencia del usuario.
+🚀 I work with modern tools like React and Node.js, but my true passion and specialty lies in frontend development. I love creating intuitive and dynamic user interfaces that enhance the user experience.
 
-🌟 Además de mi experiencia en JavaScript y frameworks como React, estoy constantemente explorando nuevas tecnologías y mejores prácticas para mantenerme al día en el campo en constante evolución del desarrollo web.
+🌟 In addition to my experience with JavaScript and frameworks like React, I am constantly exploring new technologies and best practices to stay up-to-date in the ever-evolving field of web development.
 
 -------------------
 
